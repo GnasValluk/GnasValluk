@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SangPham%20aka%20Gnas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Programmer%20✦%20Designer%20✦%20Creator&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gnas%20Valluk&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Programmer%20✦%20Designer%20✦%20Creator&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
