@@ -1,88 +1,130 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gnas%20Valluk&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=💡%20Ideator%20✦%20Creator%20✦%20Otaku&descAlignY=60&descSize=20" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#020c14"/>
+      <stop offset="50%" style="stop-color:#071e2e"/>
+      <stop offset="100%" style="stop-color:#0a3d4a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007889;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00BCD4;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#00BCD4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#007889;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#80deea"/>
+      <stop offset="50%" style="stop-color:#e0f7fa"/>
+      <stop offset="100%" style="stop-color:#80deea"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <polyline points="20,40 20,20 40,20" fill="none" stroke="#00BCD4" stroke-width="2" opacity="0.8"/>
+  <polyline points="860,40 860,20 840,20" fill="none" stroke="#00BCD4" stroke-width="2" opacity="0.8"/>
+  <polyline points="20,160 20,180 40,180" fill="none" stroke="#00BCD4" stroke-width="2" opacity="0.8"/>
+  <polyline points="860,160 860,180 840,180" fill="none" stroke="#00BCD4" stroke-width="2" opacity="0.8"/>
+  <rect x="0" y="0" width="900" height="2" fill="url(#line)" opacity="0.6"/>
+  <rect x="0" y="198" width="900" height="2" fill="url(#line)" opacity="0.6"/>
+  <circle cx="20" cy="20" r="2" fill="#00BCD4" opacity="0.6"/>
+  <circle cx="880" cy="20" r="2" fill="#00BCD4" opacity="0.6"/>
+  <circle cx="20" cy="180" r="2" fill="#00BCD4" opacity="0.6"/>
+  <circle cx="880" cy="180" r="2" fill="#00BCD4" opacity="0.6"/>
+  <line x1="0" y1="100" x2="900" y2="100" stroke="#00BCD4" stroke-width="0.3" opacity="0.1"/>
+  <line x1="450" y1="0" x2="450" y2="200" stroke="#00BCD4" stroke-width="0.3" opacity="0.1"/>
+  <text x="60" y="108" font-family="monospace" font-size="18" fill="#00BCD4" opacity="0.5" filter="url(#glow)">◈</text>
+  <text x="820" y="108" font-family="monospace" font-size="18" fill="#00BCD4" opacity="0.5" filter="url(#glow)">◈</text>
+  <text x="450" y="95" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="url(#title)" text-anchor="middle" filter="url(#glow)" letter-spacing="8">GNAS VALLUK</text>
+  <rect x="300" y="108" width="300" height="1" fill="url(#line)" opacity="0.5"/>
+  <text x="450" y="135" font-family="'Courier New', monospace" font-size="12" fill="#80deea" text-anchor="middle" opacity="0.8" letter-spacing="3">◈  RESONATOR  |  IDEATOR  |  CREATOR  ◈</text>
+  <text x="450" y="168" font-family="monospace" font-size="10" fill="#007889" text-anchor="middle" opacity="0.6" letter-spacing="2">SOLARIS-3  ·  PANGU TERMINAL  ·  PIONEER CLEARANCE</text>
+</svg>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Yaa%2C+I'm+SangPham+%F0%9F%91%8B+%7C+%E3%82%B5%E3%83%B3+%E3%83%95%E3%82%A1%E3%83%A0;Otaku+%2B+Developer+%3D+%E2%9C%A8+Dangerous+Combo;I+turn+simple+ideas+into+something+real+%F0%9F%92%A1;Creativity+has+no+limits+%E2%80%94+just+like+anime+seasons+%F0%9F%8E%8C;My+code+runs+on+coffee+%26+anime+OSTs+%E2%98%95%F0%9F%8E%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&pause=1200&color=00BCD4&center=true&vCenter=true&width=680&lines=...+Awakened+from+the+Tacet+Discord+...;Resonance+Attribute+%3A%3A+Spectro+%2F+Creativity;Forte+%3A%3A+Turning+the+ordinary+%E2%86%92+extraordinary;Scanning+Solaris-3+for+new+ideas...+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
 
-## ⛩️ — About Me —
+<div align="center">
+  <img src="https://raw.githubusercontent.com/infinia-yzl/image-wutheringwaves/main/public/images/c/rm-s.webp" width="260" align="right"/>
+</div>
 
-<img align="right" width="360" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="anime coding gif"/>
+### ◈ Resonator File — Pioneer Clearance
 
 ```yaml
-name        : SangPham
-alias       : Gnas Valluk  「グナス・ヴァルク」
-role        : Ideator & Creator
-class       : Otaku / Developer / Dreamer
-guild       : Solo Player 🗡️
-special_move: Turning simple ideas → extraordinary
-weakness    : New anime seasons & plot twists
-status      : Currently in my arc 🔥
-bgm         : Lo-fi anime beats 🎵
+Designation  :  SangPham  ·  "Gnas Valluk"
+Resonance    :  Spectro — frequency of pure imagination
+Forte        :  Ideation — sees potential in the ordinary
+Weapon       :  A blank canvas and an open mind
+Faction      :  Huanglong  ·  Solaris-3
+Echo Set     :  Creativity · Curiosity · Simplicity
+Status       :  ⚡ Resonance active — in the field
 ```
 
-- 💡 I come up with **ideas** from the most ordinary things around me
-- � Proud **Otaku** — anime taught me more than school ever did
-- 🗡️ I code like a shonen protagonist — **never give up, always level up**
-- 🌸 Creativity doesn't need expensive tools — just a **different mindset**
-- ⚡ Fun fact: My best ideas come during anime opening songs 🎶
+- 💡 My **Forte** — pulling ideas from the noise, like a Resonator in a Tacet Field
+- 🌊 Creativity never stops — it only changes form, like the waves of Solaris-3
+- ⚡ Every project is a new **Tacet Field**: chaotic, unknown, full of potential
+- 🔥 I clear it — one commit, one idea, one build at a time
+- ✨ The **Echo** I leave behind: something that didn't exist before I touched it
 
 <br clear="right"/>
 
 ---
 
-## 🐍 Snake Eating My Contributions
+### ◈ The Snake Clears the Field
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
+*Each square — a Reverberation absorbed. Each row cleared — a Tacet Field conquered.*
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ◈ Combat Data
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IShino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IShino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050d1a&title_color=00BCD4&icon_color=00BCD4&text_color=e0f7fa&rank_icon=github"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShino&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=050d1a&title_color=00BCD4&text_color=e0f7fa"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IShino&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IShino&theme=tokyonight&hide_border=true&background=050d1a&ring=00BCD4&fire=FF6B6B&currStreakLabel=00BCD4&sideLabels=e0f7fa&dates=607d8b)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Activity Graph — Last 31 Days
+### ◈ Resonance Activity — Last 31 Days
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IShino&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true&area_color=A855F7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IShino&bg_color=050d1a&color=00BCD4&line=00BCD4&point=e0f7fa&area=true&hide_border=true&area_color=0a3d4a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🏆 Trophies
+### ◈ Trophies — Echoes Collected
 
 <div align="center">
 
@@ -92,122 +134,73 @@ bgm         : Lo-fi anime beats 🎵
 
 ---
 
-## 🌐 3D Contribution Calendar
+### ◈ 3D Resonance Map
 
 <div align="center">
 
-[![](https://github-profile-3d-contrib.vercel.app/api/informal-iso?username=IShino&bg=0D1117&fg=ffffff&badge=A855F7&media=A855F7&ice=A855F7&fire=FF6B6B)](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-> *Every green square is a small step in the arc* �
+[![3d](https://github-profile-3d-contrib.vercel.app/api/informal-iso?username=IShino&bg=050d1a&fg=e0f7fa&badge=00BCD4&media=00BCD4&ice=00BCD4&fire=FF6B6B)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 </div>
 
 ---
 
-## ⏱️ Coding Time — WakaTime
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/IShino.svg?style=for-the-badge)](https://wakatime.com/@IShino)
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=IShino&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## 🎵 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=A855F7)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-> *Probably an anime OST right now* 🎧✨
-
-</div>
-
----
-
-## 🎌 My Anime Power Level
+### ◈ Forte Circuit
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ⚔️  Character Stats                                          │
-│                                                                 │
-│   Creativity   ████████████████████████  100%  �              │
-│   Curiosity    ████████████████████████  100%  🤔              │
-│   Weeb Level   ████████████████████████  100%  🎌              │
-│   Patience     ████████████████████░░░░   80%  �              │
-│   Sleep        ████░░░░░░░░░░░░░░░░░░░░   20%  😴              │
-│   Coffee       ████████████████████████   ∞%   ☕              │
-│                                                                 │
-│   "The moment you give up is the moment                        │
-│    someone else wins."  — Haikyuu!! 🏐                         │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+  Creativity   ████████████████████████  ∞    RESONANCE MAXED  ✨
+  Curiosity    ████████████████████████  100  RESONANCE MAXED  🌊
+  Observation  ████████████████████████  100  RESONANCE MAXED  👁
+  Patience     ████████████████████░░░░   80  Lv.8 — training  🌿
+  Sleep        ████░░░░░░░░░░░░░░░░░░░░   20  Lv.2 — send help 💤
+  Coffee       ████████████████████████  ∞    CRITICAL SUPPLY  ☕
 ```
 
-</div>
-
----
-
-## 🗡️ My Favorite Quotes
-
-<div align="center">
-
-> *"If you don't take risks, you can't create a future."*
-> — **Monkey D. Luffy**, One Piece 🏴‍☠️
-
-> *"Whatever you lose, you'll find it again. But what you throw away you'll never get back."*
-> — **Himura Kenshin**, Rurouni Kenshin ⚔️
-
-> *"A lesson without pain is meaningless."*
-> — **Edward Elric**, Fullmetal Alchemist 🔥
+> *"A Resonator's power is not measured by their weapon —*
+> *but by the frequency of their will."*
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### ◈ Currently Listening
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=050d1a&border_color=00BCD4)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+*Probably the WuWa OST — Rover's theme on repeat* 🎧
 
 </div>
 
 ---
 
-## 🚀 The Creative Journey
+### ◈ Arsenal
 
 <div align="center">
 
-| � Observe | 💡 Ideate | ⚔️ Build | 🚀 Launch |
-|:---:|:---:|:---:|:---:|
-| From simple things | See the potential | Train like a protagonist | Share with the world |
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### ◈ Transmission Channels
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IShino.Avery/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IShino)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/IShino.Avery/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IShino)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300BCD4?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -215,10 +208,29 @@ bgm         : Lo-fi anime beats 🎵
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=IShino&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=IShino&color=00BCD4&style=flat-square&label=Resonators+who+visited)
 
-*"Creativity is not a born talent — it's a habit built every single day."* 🎌✨
+*"The Lament reshaped the world. Ideas reshape everything else."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="100%">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a3d4a"/>
+      <stop offset="50%" style="stop-color:#071e2e"/>
+      <stop offset="100%" style="stop-color:#020c14"/>
+    </linearGradient>
+    <linearGradient id="linef" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#007889;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00BCD4;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#00BCD4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#007889;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#bgf)"/>
+  <rect x="0" y="0" width="900" height="1" fill="url(#linef)" opacity="0.6"/>
+  <polyline points="20,20 20,40 40,40" fill="none" stroke="#00BCD4" stroke-width="1.5" opacity="0.6"/>
+  <polyline points="880,20 880,40 860,40" fill="none" stroke="#00BCD4" stroke-width="1.5" opacity="0.6"/>
+  <text x="450" y="48" font-family="monospace" font-size="10" fill="#007889" text-anchor="middle" opacity="0.7" letter-spacing="3">◈  SOLARIS-3  ·  STAY RESONANT  ◈</text>
+</svg>
 
 </div>
