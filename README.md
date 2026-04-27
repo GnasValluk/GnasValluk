@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gnas%20Valluk&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=💡%20Ideator%20✦%20Creator%20✦%20Dreamer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gnas%20Valluk&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=💡%20Ideator%20✦%20Creator%20✦%20Otaku&descAlignY=60&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Hey+there%2C+I'm+SangPham+%F0%9F%91%8B;I+turn+simple+ideas+into+something+real+%F0%9F%92%A1;Creativity+has+no+limits+%E2%9C%A8;Every+idea+has+its+own+value+%F0%9F%9A%80;Turning+the+ordinary+%E2%86%92+extraordinary+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=750&lines=Yaa%2C+I'm+SangPham+%F0%9F%91%8B+%7C+%E3%82%B5%E3%83%B3+%E3%83%95%E3%82%A1%E3%83%A0;Otaku+%2B+Developer+%3D+%E2%9C%A8+Dangerous+Combo;I+turn+simple+ideas+into+something+real+%F0%9F%92%A1;Creativity+has+no+limits+%E2%80%94+just+like+anime+seasons+%F0%9F%8E%8C;My+code+runs+on+coffee+%26+anime+OSTs+%E2%98%95%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,25 +14,27 @@
 
 ---
 
-## 💡 Who Am I?
+## ⛩️ — About Me —
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="anime coding gif"/>
 
 ```yaml
-name      : SangPham
-alias     : Gnas Valluk
-role      : Ideator & Creator
-superpower: Turning the simple → extraordinary
-mindset   : "Ideas are everywhere, you just need to see them"
-facebook  : IShino.Avery
-status    : 🔥 Currently creating...
+name        : SangPham
+alias       : Gnas Valluk  「グナス・ヴァルク」
+role        : Ideator & Creator
+class       : Otaku / Developer / Dreamer
+guild       : Solo Player 🗡️
+special_move: Turning simple ideas → extraordinary
+weakness    : New anime seasons & plot twists
+status      : Currently in my arc 🔥
+bgm         : Lo-fi anime beats 🎵
 ```
 
 - 💡 I come up with **ideas** from the most ordinary things around me
-- 🎨 Creativity doesn't need expensive tools — just a **different mindset**
-- 🌱 Every day is a blank canvas waiting to be painted
-- 🔥 Passionate about turning **"Ideas → Reality"** even from zero
-- ⚡ Fun fact: I can find inspiration even while... taking a shower 🚿
+- � Proud **Otaku** — anime taught me more than school ever did
+- 🗡️ I code like a shonen protagonist — **never give up, always level up**
+- 🌸 Creativity doesn't need expensive tools — just a **different mindset**
+- ⚡ Fun fact: My best ideas come during anime opening songs 🎶
 
 <br clear="right"/>
 
@@ -96,7 +98,7 @@ status    : 🔥 Currently creating...
 
 [![](https://github-profile-3d-contrib.vercel.app/api/informal-iso?username=IShino&bg=0D1117&fg=ffffff&badge=A855F7&media=A855F7&ice=A855F7&fire=FF6B6B)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-> *Every green square is a small step in the creative journey* 🌱
+> *Every green square is a small step in the arc* �
 
 </div>
 
@@ -120,7 +122,50 @@ status    : 🔥 Currently creating...
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=A855F7)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
-> *Music is the fuel for ideas* 🎧
+> *Probably an anime OST right now* 🎧✨
+
+</div>
+
+---
+
+## 🎌 My Anime Power Level
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   ⚔️  Character Stats                                          │
+│                                                                 │
+│   Creativity   ████████████████████████  100%  �              │
+│   Curiosity    ████████████████████████  100%  🤔              │
+│   Weeb Level   ████████████████████████  100%  🎌              │
+│   Patience     ████████████████████░░░░   80%  �              │
+│   Sleep        ████░░░░░░░░░░░░░░░░░░░░   20%  😴              │
+│   Coffee       ████████████████████████   ∞%   ☕              │
+│                                                                 │
+│   "The moment you give up is the moment                        │
+│    someone else wins."  — Haikyuu!! 🏐                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🗡️ My Favorite Quotes
+
+<div align="center">
+
+> *"If you don't take risks, you can't create a future."*
+> — **Monkey D. Luffy**, One Piece 🏴‍☠️
+
+> *"Whatever you lose, you'll find it again. But what you throw away you'll never get back."*
+> — **Himura Kenshin**, Rurouni Kenshin ⚔️
+
+> *"A lesson without pain is meaningless."*
+> — **Edward Elric**, Fullmetal Alchemist 🔥
 
 </div>
 
@@ -143,38 +188,13 @@ status    : 🔥 Currently creating...
 
 ---
 
-## 🧠 My Creative Philosophy
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   💡 My creative energy sources...                             │
-│                                                                 │
-│   Observation  ████████████████████████  100%  👀              │
-│   Curiosity    ████████████████████████  100%  🤔              │
-│   Simplicity   ████████████████████████  100%  ✨              │
-│   Patience     ████████████████████░░░░   80%  🌱              │
-│   Coffee       ████████████████████████   ∞%   ☕              │
-│                                                                 │
-│   "No idea is too small —                                      │
-│    only the vision isn't big enough yet."                       │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🚀 The Creative Journey
 
 <div align="center">
 
-| 🌱 Observe | 💡 Ideate | 🔨 Build | 🚀 Launch |
+| � Observe | 💡 Ideate | ⚔️ Build | 🚀 Launch |
 |:---:|:---:|:---:|:---:|
-| From simple things | See the potential | Make it real | Share with the world |
+| From simple things | See the potential | Train like a protagonist | Share with the world |
 
 </div>
 
@@ -197,7 +217,7 @@ status    : 🔥 Currently creating...
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IShino&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
 
-*"Creativity is not a born talent — it's a habit built every single day."* ✨
+*"Creativity is not a born talent — it's a habit built every single day."* 🎌✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
