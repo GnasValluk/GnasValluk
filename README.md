@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=IShino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IShino&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=IShino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IShino&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IShino&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=IShino&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IShino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=IShino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
