@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Timeline: foundation, service, back to tech">
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace;white-space:pre}
+  </style>
+  <rect width="1000" height="220" rx="14" fill="#0b0f0c"/>
+  <rect x="0.5" y="0.5" width="999" height="219" rx="14" fill="none" stroke="#2a3a24"/>
+  <line x1="160" y1="78" x2="840" y2="78" stroke="#2a3a24" stroke-width="3"/>
+  <line x1="160" y1="78" x2="500" y2="78" stroke="#ffb000" stroke-width="3"/>
+  <line x1="500" y1="78" x2="840" y2="78" stroke="#ffb000" stroke-width="3" stroke-dasharray="6 8" opacity="0.6"/>
+
+  <text x="160" y="42" font-size="13" text-anchor="middle" fill="#5d6e58" letter-spacing="3">01 / PAST</text>
+  <circle cx="160" cy="78" r="12" fill="#ffb000"/>
+  <text x="160" y="128" font-size="17" font-weight="700" text-anchor="middle" fill="#ffb000">FOUNDATION</text>
+  <text x="160" y="154" font-size="13" text-anchor="middle" fill="#d7e0d0">Information Technology</text>
+  <text x="160" y="174" font-size="13" text-anchor="middle" fill="#d7e0d0">hands-on experience</text>
+
+  <text x="500" y="42" font-size="13" text-anchor="middle" fill="#ffb000" letter-spacing="3">02 / NOW</text>
+  <circle cx="500" cy="78" r="12" fill="#ffb000"/>
+  <circle cx="500" cy="78" r="12" fill="none" stroke="#ffb000" stroke-width="2">
+    <animate attributeName="r" from="12" to="30" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0.9" to="0" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="128" font-size="17" font-weight="700" text-anchor="middle" fill="#ffb000">SERVICE</text>
+  <text x="500" y="154" font-size="13" text-anchor="middle" fill="#d7e0d0">wrapping up military service</text>
+  <text x="500" y="174" font-size="13" text-anchor="middle" fill="#d7e0d0">sharpening skills &amp; English</text>
+
+  <text x="840" y="42" font-size="13" text-anchor="middle" fill="#5d6e58" letter-spacing="3">03 / NEXT</text>
+  <circle cx="840" cy="78" r="12" fill="#0b0f0c" stroke="#ffb000" stroke-width="3"/>
+  <text x="840" y="128" font-size="17" font-weight="700" text-anchor="middle" fill="#ffb000">BACK TO TECH</text>
+  <text x="840" y="154" font-size="13" text-anchor="middle" fill="#d7e0d0">full-time developer</text>
+  <text x="840" y="174" font-size="13" text-anchor="middle" fill="#d7e0d0">clean, working software</text>
+</svg>

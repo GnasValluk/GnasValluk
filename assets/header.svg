@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Sang, Software Developer">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1a241b" stroke-width="1"/>
+    </pattern>
+    <clipPath id="c1"><rect x="40" y="62" width="0" height="28"><animate attributeName="width" from="0" to="520" dur="0.7s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="92" width="0" height="28"><animate attributeName="width" from="0" to="520" dur="0.9s" begin="0.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="122" width="0" height="28"><animate attributeName="width" from="0" to="520" dur="0.9s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="152" width="0" height="28"><animate attributeName="width" from="0" to="520" dur="0.9s" begin="2.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="40" y="182" width="0" height="28"><animate attributeName="width" from="0" to="520" dur="1.1s" begin="3.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Courier New",monospace;white-space:pre}
+    .cur{animation:b 1s steps(1) infinite}
+    @keyframes b{50%{opacity:0}}
+    .scan{animation:s 5s linear infinite}
+    @keyframes s{from{transform:translateY(0)}to{transform:translateY(280px)}}
+  </style>
+  <rect width="1000" height="280" rx="14" fill="#0b0f0c"/>
+  <rect width="1000" height="280" rx="14" fill="url(#grid)"/>
+  <rect class="scan" y="-4" width="1000" height="3" fill="#ffb000" opacity="0.10"/>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="none" stroke="#2a3a24"/>
+  <circle cx="30" cy="28" r="6" fill="#ff5f56"/><circle cx="52" cy="28" r="6" fill="#ffbd2e"/><circle cx="74" cy="28" r="6" fill="#27c93f"/>
+  <text x="96" y="32" font-size="12" fill="#5d6e58">sang@ishino:~/mission</text>
+
+  <g clip-path="url(#c1)"><text x="40" y="82" font-size="16"><tspan fill="#ffb000">$</tspan><tspan fill="#d7e0d0"> boot --user sang</tspan></text></g>
+  <g clip-path="url(#c2)"><text x="40" y="112" font-size="16"><tspan fill="#8fbf5a">[ OK ]</tspan><tspan fill="#d7e0d0"> background .... </tspan><tspan fill="#ffb000">information technology</tspan></text></g>
+  <g clip-path="url(#c3)"><text x="40" y="142" font-size="16"><tspan fill="#ffb000">[ .. ]</tspan><tspan fill="#d7e0d0"> service ....... </tspan><tspan fill="#ffb000">wrapping up</tspan></text></g>
+  <g clip-path="url(#c4)"><text x="40" y="172" font-size="16"><tspan fill="#ffb000">[ .. ]</tspan><tspan fill="#d7e0d0"> english ....... </tspan><tspan fill="#ffb000">leveling up</tspan></text></g>
+  <g clip-path="url(#c5)"><text x="40" y="202" font-size="16"><tspan fill="#8fbf5a">[ &gt;&gt; ]</tspan><tspan fill="#d7e0d0"> next .......... </tspan><tspan fill="#ffb000">back to tech, full-time</tspan></text></g>
+  <rect class="cur" x="40" y="232" width="10" height="18" fill="#ffb000" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.8s" fill="freeze"/></rect>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.6s" fill="freeze"/>
+    <text x="960" y="160" font-size="104" font-weight="700" text-anchor="end" fill="#ffb000">SANG</text>
+    <text x="960" y="196" font-size="15" letter-spacing="5" text-anchor="end" fill="#d7e0d0">SOFTWARE DEVELOPER</text>
+    <text x="960" y="222" font-size="13" text-anchor="end" fill="#5d6e58">// @GnasValluk</text>
+  </g>
+</svg>
