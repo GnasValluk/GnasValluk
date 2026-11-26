@@ -1,93 +1,58 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Hi%20there,%20I'm%20Sang%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20IT%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
+  <img src="assets/header.svg" width="100%" alt="Sang, Software Developer"/>
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="42%" valign="middle" align="center">
+  <img src="assets/dogtag.svg" alt="ID tag: Sang"/>
+</td>
+<td valign="middle">
+
+### `> about --sang`
+
+- **Background in Information Technology**, with hands-on experience before and during my military service
+- **Wrapping up my service**, getting ready to jump back into tech full-time
+- **Sharpening my skills** (and my English) to make the most of what's next
+- **Open to connecting** with other developers and to new opportunities
+- I like turning **simple ideas into clean, working software**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `> mission --log`
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00BCD4&center=true&vCenter=true&width=600&lines=Full-stack+leaning+developer;Wrapping+up+military+service+%E2%80%94+back+to+tech+soon;Always+learning%2C+always+building)](https://git.io/typing-svg)
-
+  <img src="assets/timeline.svg" width="100%" alt="Foundation, service, back to tech"/>
 </div>
 
----
+<br/>
 
-### 👋 About Me
-
-- 💻 Background in **Information Technology**, with hands-on experience before and during my military service
-- 🪖 Currently finishing up my service — getting ready to jump back into tech full-time
-- 🌱 Sharpening my skills (and my English) to make the most of what's next
-- 🤝 Open to connecting with other developers and to new opportunities
-- ⚡ I like turning simple ideas into clean, working software
-
-### 📊 GitHub Stats
+### `> project --featured`
 
 <div align="center">
-
-<img height="165em" src="https://github-stats-extended.vercel.app/api?username=IShino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IShino&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/GnasValluk/shieldgate-usb-guard">
+    <img src="assets/shieldgate.svg" width="100%" alt="ShieldGate USB Guard"/>
+  </a>
 </div>
 
+<br/>
+
+### `> connect --open`
+
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IShino&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <a href="https://github.com/IShino"><img src="assets/btn-github.svg" alt="GitHub"/></a>
+  &nbsp;
+  <a href="https://www.facebook.com/IShino.Avery/"><img src="assets/btn-facebook.svg" alt="Facebook"/></a>
 </div>
 
----
-
-### 📈 Activity — Last 31 Days
+<br/>
 
 <div align="center">
-
-[![Activity Graph](https://fabianocouto-activity-graph.vercel.app/graph/?username=IShino&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=IShino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/IShino.Avery/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IShino)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=IShino&color=00BCD4&style=flat-square&label=Profile+Views)
-
-*Thanks for stopping by — always happy to connect and collaborate.*
-
+  <img src="assets/footer.svg" width="100%" alt="service.end() to commits.start()"/>
 </div>
